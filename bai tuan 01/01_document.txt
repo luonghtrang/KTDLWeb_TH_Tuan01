@@ -1,0 +1,7 @@
+﻿Cách cài BeautifulSoup
+http://scrapingauthority.com/2016/09/12/install-beautifulsoup
+https://www.scrapehero.com/how-to-install-python3-in-windows-10/
+
+Bài đọc them vể RE:
+https://www.w3schools.com/python/python_regex.asp
+https://www.tutorialspoint.com/python/python_reg_expressions.htm
